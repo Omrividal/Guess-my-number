@@ -1,4 +1,7 @@
 # Guess-my-number
+link to the website to play the game:
+https://allaboutthenumbers.netlify.app/
+
 my take on Guess my number challenge from jonas schmedtmann JS course
 
 The starting state
